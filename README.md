@@ -1,7 +1,7 @@
 # Power-BI-projects
 
 
-Representation of grants and sponsorship projects over years at Vellore Institute of Technology...
+Representation of grants and sponsored projects over years at Vellore Institute of Technology...
 
 
 ![dg](https://github.com/Amar985/Power-BI-projects/assets/84828275/369f5c00-8883-4285-bac1-92416ab36823)
